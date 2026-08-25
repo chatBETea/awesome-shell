@@ -90,8 +90,3 @@ links are valid.
    the repo's history of incremental single-entry additions.
 5. This is a community list with an established, mostly-hands-off maintenance history — avoid
    sweeping reorganizations unless explicitly asked.
-
-## Working branch note
-
-Per this session's task configuration, development happens on a feature branch (not `master`) and is
-pushed with a PR opened against `master` — do not commit directly to `master`.
